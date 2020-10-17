@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPD-Lab-1-6", "ZPD-Lab-1-6\ZPD-Lab-1-6.csproj", "{D6963D20-4291-4396-9546-43AD737239A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPD-Lab-1-6.Tests", "ZPD-Lab-1-6.Tests\ZPD-Lab-1-6.Tests.csproj", "{5B8D647F-5540-413E-A519-7C7B863C4F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6963D20-4291-4396-9546-43AD737239A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6963D20-4291-4396-9546-43AD737239A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6963D20-4291-4396-9546-43AD737239A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6963D20-4291-4396-9546-43AD737239A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8D647F-5540-413E-A519-7C7B863C4F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8D647F-5540-413E-A519-7C7B863C4F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8D647F-5540-413E-A519-7C7B863C4F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8D647F-5540-413E-A519-7C7B863C4F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32112EF3-5CFD-4F39-AC41-7B85A8EAFCDA}
+	EndGlobalSection
+EndGlobal
